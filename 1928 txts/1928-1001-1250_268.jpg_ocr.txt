@@ -1,0 +1,27 @@
+Form 812A
+0 1
+58
+1 8
+00
+THE UNIVERSITY OF CHICAGO HOSPITALS AND CLINICS
+LABORATORY OF SURGICAL PATHOLOGY
+Paynom, Pauline
+CLINIC OR FLOOR
+Outside
+DATE
+UNIT NO.
+Name First-Last
+No. & Street
+City & State
+4-24-26
+L23
+&
+[24
+Path. No.
+1218
+Pathological Diagnosis..... Old tuberculous mastitis, with marked calcification..
+Operation
+Clinical Data and Diagnosis-Age of Patient Yrs..
+TBC.
+Mastitis, partly calcified.
+Attending Physician Dr. Bevan.

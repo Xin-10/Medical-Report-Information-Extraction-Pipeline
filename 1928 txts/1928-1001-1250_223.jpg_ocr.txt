@@ -1,0 +1,26 @@
+Form 812A
+THE UNIVERSITY OF CHICAGO HOSPITALS AND CLINICS
+LABORATORY OF SURGICAL PATHOLOGY
+5 3
+7
+9
+Shaffle, Anna
+CLINIC OR FLOOR
+DATE
+UNIT NO.
+Name First-Last
+No. & Street
+City & State
+Outside
+1-13-26
+13 1
+1187
+Path. No.
+Pathological Diagnosis...
+Chronic cholecystits, with marked myxomatous change
+and eosinophilia, Cholelithiasis.
+Operation.
+Attending Physician Dr. Phemister.
+Clinical Data and Diagnosis-Age of Patient Yrs...
+Hydrops of gallbladder. Infection. Large gallbladder. Cholecystitis and chole-
+lithiasis.

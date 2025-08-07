@@ -1,0 +1,25 @@
+Form 812A
+BOR
+THE UNIVERSITY OF CHICAGO HOSPITALS AND CLINICS
+LABORATORY OF SURGICAL PATHOLOGY
+5
+1
+لول العام الماه
+001
+5
+Kalman, Ben
+CLINIC OR FLOOR
+Pathological Diagnosis......
+Chronic lymphadenitis..
+Operation
+Clinical Data and Diagnosis-Age of Patient Yrs.....
+M 3
+Attending Physician Dr. Curtis..
+DATE
+3/8/28
+Path. No. 1141
+UNIT NO.
+Name First-Last
+No. & Street
+City & State
+13

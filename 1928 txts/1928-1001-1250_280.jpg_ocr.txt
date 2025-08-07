@@ -1,0 +1,26 @@
+Form 812A
+THE UNIVERSITY OF CHICAGO HOSPITALS AND CLINICS
+LABORATORY OF SURGICAL PATHOLOGY
+0 1
+1 1
+39 ال
+Lukowitz, Isadore
+CLINIC OR FLOOR
+Outside
+DATE
+3-31-23
+Path. No. 1225
+Pathological Diagnosis..
+Radiation burn, with acute and chronic inflammatory.
+skin biopsy from back.
+Operation........
+Clinical Data and Diagnosis-Age of Patient Yrs...
+X-ray burn of back.
+Attending Physician.. Dr. Phemister
+UNIT NO.
+Name First-Last
+No. & Street
+City & State
+L231
+&c
+[248

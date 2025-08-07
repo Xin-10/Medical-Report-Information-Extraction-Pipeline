@@ -1,0 +1,25 @@
+Form 812A
+THE UNIVERSITY OF CHICAGO HOSPITALS AND CLINICS
+LABORATORY OF SURGICAL PATHOLOGY
+0
+1 3 9
+1
+2
+MacLeari, H.
+CLINIC OR FLOOR
+Outside
+Pathological Diagnosis.
+Cholesterolosis and chronic cholecystitis.
+Operation..
+H
+DATE
+Path. No. 1188
+Attending Physician..
+Dr. Bevan.
+Clinical Data and Diagnosis-Age of Patient ... Yrs.....
+Cholecystitis. Strawberry gallbladder. Hypercholesterolosis of gallbladder.
+UNIT NO.
+Name First Last
+No. & Street
+City & State
+13

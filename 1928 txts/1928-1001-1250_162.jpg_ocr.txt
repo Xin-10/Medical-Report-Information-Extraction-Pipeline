@@ -1,0 +1,29 @@
+Unit No.
+Form 812A
+THE UNIVERSITY OF CHICAGO CLINICS
+LABORATORY OF SURGICAL PATHOLOGY
+15 15
+Name Last-First
+Pathological Diagnosis Chronic lymphadenitis.
+Operation.
+Clinical Data and Diagnosis-Age of Patient..... Yrs..
+Gastric ulcer.
+Clinic or Floor
+M-3
+Kalman, Ben
+Dr. Curtis
+Attending Physician..
+Date
+3-8-28
+Port
+Path No
+MC
+5 1142
+1141
+Path. No.
+13
+Τη
+S
+es
+y
+d.

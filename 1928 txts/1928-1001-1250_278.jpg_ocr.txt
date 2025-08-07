@@ -1,0 +1,26 @@
+Form 812A
+THE UNIVERSITY OF CHICAGO HOSPITALS AND CLINICS
+LABORATORY OF SURGICAL PATHOLOGY
+Pathological Diagnosis..
+Operation..
+0 1
+5 1
+4
+9
+Paramore, Ethamaere
+CLINIC OR FLOOR
+Outside
+DATE
+UNIT NO.
+Name-First-Last
+No. & Street
+City & State
+11-9-25
+L23'
+[24
+Path. No. 1224
+Attending Physician.. Dr. Phemister
+Clinical Data and Diagnosis-Age of Patient...... Yrs....
+Epidermoid carcinoma of forehead.
+Skin slide technically unreadable, possible tumor of the skin infiltration dermis
+and subcutaneous tissue. ? slide with cortical bone #1224 ?.
